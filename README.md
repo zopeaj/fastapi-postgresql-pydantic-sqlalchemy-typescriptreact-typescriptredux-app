@@ -1,0 +1,1 @@
+# fastapi-postgresql-pydantic-sqlalchemy-typescriptreact-typescriptredux-app
